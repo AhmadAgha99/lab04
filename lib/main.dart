@@ -32,7 +32,7 @@ class _HomeState extends State<Home> {
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 15, 88, 17),
           title: Text(
-            "TopCar",
+            "TurboCar",
             style: TextStyle(color: Colors.grey),
           ),
         ),

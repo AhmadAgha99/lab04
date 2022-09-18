@@ -37,7 +37,7 @@ class _secreen_oneState extends State<secreen_one> {
                 height: double.infinity,
                 child: Center(
                     child: ListView(children: [
-                  Text("Welcome to the mystery world ",
+                  Text("Welcome to the car world ",
                       style: TextStyle(fontSize: 25, color: Colors.grey)),
                   DropdownButton(
                     iconEnabledColor: Colors.white,
